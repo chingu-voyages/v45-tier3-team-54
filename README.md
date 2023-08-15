@@ -1,10 +1,10 @@
 # Amber Student Clone
 Discover Ideal Student Accommodations near Top Universities and Vibrant Cities Worldwide.
-___
-### Overview
+
+## Overview
 This app was created for Chingu Voyage 45. This app allows students to ealisy find accomodations near top universities worldwide, while empowering accomodation owners to showcase their listing.
-___
-### Features
+
+## Features
 - **Effortless Search:** Quickly find student accommodations near the desired university and city using an intuitive search interface.
 
 - **Detailed Unit Information:** Dive into detailed unit descriptions, images, and map views to make informed decisions.
@@ -19,9 +19,9 @@ ___
 
 - **Owner Dashboard:** Accommodation owners receive inquiries about their units and have control over creating, editing, and managing listings.
 
-___
-### Running the project
+
+## Running the project
 
 
-___
-### Build With
+
+## Build With
