@@ -1,28 +1,27 @@
-# voyage-tasks
+# Amber Student Clone
+Discover Ideal Student Accommodations near Top Universities and Vibrant Cities Worldwide.
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+## Overview
+This app was created for Chingu Voyage 45. This app allows students to ealisy find accomodations near top universities worldwide, while empowering accomodation owners to showcase their listing.
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+## Features
+- **Effortless Search:** Quickly find student accommodations near the desired university and city using an intuitive search interface.
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+- **Detailed Unit Information:** Dive into detailed unit descriptions, images, and map views to make informed decisions.
 
-> Own it & Make it your Own!
+- **User Authentication:** User account with options for signup, login, logout, signin with Google, reset password, etc.
 
-## Team Documents
+- **Direct Communication:** Reach out to accommodation owners through built-in inquiry form, making it easy to ask questions and express interest.
 
-You may find these helpful as you work together to organize your project.
+- **Favorites Management:** Create a curated list of ones favorite units for easy reference and comparison.
 
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
+- **User Reviews:** Read and submit reviews for units and owners, contributing to a transparent community-driven experience.
 
-Meeting Agenda templates (located in the `/docs` directory in this repo):
+- **Owner Dashboard:** Accommodation owners receive inquiries about their units and have control over creating, editing, and managing listings.
 
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
+
+## Running the project
+
+
+
+## Build With
