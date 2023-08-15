@@ -1,24 +1,27 @@
-# voyage-tasks 
+# Amber Student Clone
+Discover Ideal Student Accommodations near Top Universities and Vibrant Cities Worldwide.
+___
+### Overview
+This app was created for Chingu Voyage 45. This app allows students to ealisy find accomodations near top universities worldwide, while empowering accomodation owners to showcase their listing.
+___
+### Features
+- **Effortless Search:** Quickly find student accommodations near the desired university and city using an intuitive search interface.
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point -
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+- **Detailed Unit Information:** Dive into detailed unit descriptions, images, and map views to make informed decisions.
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+- **User Authentication:** User account with options for signup, login, logout, signin with Google, reset password, etc.
 
-> Own it & Make it your Own!
+- **Direct Communication:** Reach out to accommodation owners through built-in inquiry form, making it easy to ask questions and express interest.
 
-## Team Documents
+- **Favorites Management:** Create a curated list of ones favorite units for easy reference and comparison.
 
-You may find these helpful as you work together to organize your project.
+- **User Reviews:** Read and submit reviews for units and owners, contributing to a transparent community-driven experience.
 
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
+- **Owner Dashboard:** Accommodation owners receive inquiries about their units and have control over creating, editing, and managing listings.
 
-Meeting Agenda templates (located in the `/docs` directory in this repo):
+___
+### Running the project
 
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
+
+___
+### Build With
